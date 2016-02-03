@@ -1,0 +1,36 @@
+div img {
+	width: 175px;
+	height:150px;
+}
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li {
+  display:inline-block;
+  width: 175px;
+  margin: 0.4%;
+  color: #bdc3c7;
+}
+
+#gallery li a p {
+  margin: 0;
+  padding: 0%;
+  font-size: 0.75em;
+  color: #bdc3c7;
+}
+
+#wrapper {
+  width: 600px;
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+}
+
+
+

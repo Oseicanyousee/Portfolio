@@ -1,0 +1,43 @@
+/***Background Images***/
+ body { 
+	background-image: url("ChevronKwaku.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+h1 {
+	color: white;
+	text-align: left;
+	vertical-align: text-bottom;
+	letter-spacing: 0.2em;
+}
+
+/***Navigation***/
+
+#nav {
+	width: 100%;
+	float: left;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none; 
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #ccc; 
+	border-top: 1px solid #ccc; 
+	opacity: 0.7;
+}
+
+
+#nav li {
+	float: left; }
+
+#nav li a {
+	display: block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #069;
+	border-right: 1px solid #ccc; }
+
+#nav li a:hover {
+		color: #c00;
+		background-color: #fff; }
